@@ -17,7 +17,7 @@ To **visually explore and communicate insights** using Tableau, with a focus on:
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 - Tableau Public (for visualization and storytelling)
 - Microsoft Word (for report compilation)
 - GitHub (for version control and portfolio hosting)
